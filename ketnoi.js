@@ -6,8 +6,8 @@
 const SKT_GAS_URL = "https://script.google.com/macros/s/AKfycbzeMJtKz6gPMgM7Gsf3-kACJCQ0Cl3ux8hWHBJg9Ymm6pn0xSzIUob6jhSSfP5qQBEFLw/exec";
 const SKT_LOGO_URL = "https://i.ibb.co/hRpcrNWx/logo-kimdong-25mm.png";
 
-const SKT_TEN_TRUONG = "TRƯỜNG TIỂU HỌC KIM ĐỒNG";
-const SKT_TEN_TRUONG_UP = "TRƯỜNG TH KIM ĐỒNG";
+const SKT_TEN_TRUONG = "TRƯỜNG TH KIM ĐỒNG";
+const SKT_TEN_TRUONG_UP = "TRƯỜNG TIỂU HỌC KIM ĐỒNG";
 const SKT_TEN_PM = "Sổ Kiểm Tra Nội Bộ";
 const SKT_TEN_PM_UP = "SỔ KIỂM TRA NỘI BỘ";
 const SKT_TEN_PM_DAY_DU = "PHẦN MỀM KIỂM TRA NỘI BỘ";
